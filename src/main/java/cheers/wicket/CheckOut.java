@@ -49,6 +49,7 @@ public class CheckOut extends CheesrPage {
                 cart.getCheeses().clear();
                 // return to front page
                 setResponsePage(Index.class);
+                // just comment
             }
 
         });
