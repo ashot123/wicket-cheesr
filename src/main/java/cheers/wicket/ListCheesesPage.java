@@ -20,6 +20,7 @@ public class ListCheesesPage extends WebPage {
 
 
     public ListCheesesPage() {
+/*
         IModel<Cheese> model = new LoadableDetachableModel<Cheese>() {
             @Override
             protected Cheese load() {
@@ -33,5 +34,6 @@ public class ListCheesesPage extends WebPage {
 
             }
         });
+*/
     }
 }
